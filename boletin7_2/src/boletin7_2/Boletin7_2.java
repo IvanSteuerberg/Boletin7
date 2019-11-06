@@ -28,7 +28,7 @@ switch (x) {
         z = x ;
         break;
         }
-
+        System.out.println(z);
 
 }
 }
